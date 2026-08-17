@@ -1,0 +1,2 @@
+name: 网关路由模式
+description: 官方双工具+gateway(正式路由,list含完整参数schema)+skill通道；全量工具注册经gateway转发(完整策略管线)；非必需工具已skill化(6个技能)
